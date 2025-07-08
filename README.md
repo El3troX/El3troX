@@ -43,6 +43,7 @@
 
 ### 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=El3trox&show_icons=true&theme=tokyonight" alt="El3trox GitHub stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=El3trox&theme=tokyonight" alt="GitHub Streak" /> </p>
+
 ---
 
 ### 📢 Let's Connect
