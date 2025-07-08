@@ -47,9 +47,9 @@
 
 ### 📢 Let's Connect
 
-- 📧 Email: [divyampandey123@gmail.com](mailto\:divyampandey123@gmail.com) *(edit if different)*
-- 💼 LinkedIn: [linkedin.com/in/divyampandey](https://www.linkedin.com/in/divyampandey)
-- 🧠 Portfolio (coming soon): [yourdomain.com](#)
+- 📧 Email: [divyampandey845@gmail.com](mailto\:divyampandey845@gmail.com)
+- 💼 LinkedIn: [Divyam Pandey](https://www.linkedin.com/in/divyam-pandey-231449202)
+- 🧠 Portfolio (coming soon)
 
 ---
 
