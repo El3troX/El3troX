@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=435&lines=Building+cool+stuff+with+Python;Creating+AI-powered+apps;Lover+of+clean+code+%26+good+UI" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 💻 About Me
